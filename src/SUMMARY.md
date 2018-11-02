@@ -23,6 +23,7 @@
     - [Debugging and Testing](./incrcomp-debugging.md)
 - [The parser](./the-parser.md)
 - [`#[test]` Implementation](./test-implementation.md)
+- [Closure expansion](./closure.md)
 - [Macro expansion](./macro-expansion.md)
 - [Name resolution](./name-resolution.md)
 - [The HIR (High-level IR)](./hir.md)
